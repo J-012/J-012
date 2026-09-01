@@ -1,16 +1,22 @@
-## Velkommen :)
+# Hi, I'm Juneed 👋
 
-<!--
-**J-012/J-012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year Computer Engineering student at OsloMet, graduating in spring 2027.
 
-Here are some ideas to get you started:
+I'm interested in software development, backend systems and AI.  
+Currently working with C#/.NET, React/TypeScript and AI/LLM-based applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working with
+- C# / .NET / ASP.NET Core
+- React / TypeScript
+- Java / Spring Boot
+- Python
+- SQL / PostgreSQL
+- REST APIs
+- AI / LLMs
+
+### Current projects
+- Fullstack web application using ASP.NET Core and React/TypeScript
+- AI learning tool using speech recognition, real-time transcription and LLMs
+
+### Links
+- [LinkedIn]https://www.linkedin.com/in/juneed-abdi-9603b1322/
