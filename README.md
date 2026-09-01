@@ -19,4 +19,4 @@ Currently working with C#/.NET, React/TypeScript and AI/LLM-based applications.
 - AI learning tool using speech recognition, real-time transcription and LLMs
 
 ### Links
-- [LinkedIn]https://www.linkedin.com/in/juneed-abdi-9603b1322/
+- [LinkedIn](https://www.linkedin.com/in/juneed-abdi-9603b1322/)
