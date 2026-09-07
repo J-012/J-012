@@ -1,4 +1,4 @@
-# Hi, I'm Juneed 👋
+# Hi, I'm Juneed
 
 Third-year Computer Engineering student at OsloMet, graduating in spring 2027.
 
